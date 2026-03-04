@@ -10,3 +10,4 @@
 /.tina/
 
 .env
+.vite/
